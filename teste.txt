@@ -1,1 +1,2 @@
-git é utilizado para passar sobre versões, funcionando remotamente 
+git é utilizado para passar sobre versões, funcionando remotamente
+github é uma plataforma de hospedagem de código na nuvem
